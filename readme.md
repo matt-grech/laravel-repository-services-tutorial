@@ -1,7 +1,7 @@
-# Building a CRUD in Laravel 5.8 showing best principles for manageable code #
+# Cleaner Code for a Laravel 5.8 CRUD Tutorial #
 
 ## Introduction ##
-This example is the result of the tutorial [Building a CRUD in Laravel 5.8 showing best principles for manageable code](https://www.matt-grech.com/blog/laravel-repository-services-tutorial).
+This example is the result of the tutorial [Cleaner Code for a Laravel 5.8 CRUD Tutorial](https://www.matt-grech.com/blog/cleaner-code-for-a-laravel-5-8-crud-tutorial/).
 
 ## Setup ##
 ```bash
